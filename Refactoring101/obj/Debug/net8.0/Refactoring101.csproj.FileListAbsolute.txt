@@ -1,0 +1,15 @@
+C:\VSProj\SASD2026\Refactoring101\bin\Debug\net8.0\Refactoring101.exe
+C:\VSProj\SASD2026\Refactoring101\bin\Debug\net8.0\Refactoring101.deps.json
+C:\VSProj\SASD2026\Refactoring101\bin\Debug\net8.0\Refactoring101.runtimeconfig.json
+C:\VSProj\SASD2026\Refactoring101\bin\Debug\net8.0\Refactoring101.dll
+C:\VSProj\SASD2026\Refactoring101\bin\Debug\net8.0\Refactoring101.pdb
+C:\VSProj\SASD2026\Refactoring101\obj\Debug\net8.0\Refactoring101.GeneratedMSBuildEditorConfig.editorconfig
+C:\VSProj\SASD2026\Refactoring101\obj\Debug\net8.0\Refactoring101.AssemblyInfoInputs.cache
+C:\VSProj\SASD2026\Refactoring101\obj\Debug\net8.0\Refactoring101.AssemblyInfo.cs
+C:\VSProj\SASD2026\Refactoring101\obj\Debug\net8.0\Refactoring101.csproj.CoreCompileInputs.cache
+C:\VSProj\SASD2026\Refactoring101\obj\Debug\net8.0\Refactoring101.sourcelink.json
+C:\VSProj\SASD2026\Refactoring101\obj\Debug\net8.0\Refactoring101.dll
+C:\VSProj\SASD2026\Refactoring101\obj\Debug\net8.0\refint\Refactoring101.dll
+C:\VSProj\SASD2026\Refactoring101\obj\Debug\net8.0\Refactoring101.pdb
+C:\VSProj\SASD2026\Refactoring101\obj\Debug\net8.0\Refactoring101.genruntimeconfig.cache
+C:\VSProj\SASD2026\Refactoring101\obj\Debug\net8.0\ref\Refactoring101.dll
